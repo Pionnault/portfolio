@@ -6,7 +6,7 @@
       </div>
       <Menu></Menu>
     </header>
-    <main class="p-2">
+    <main class="p-2 mt-10">
       <slot></slot>
     </main>
   </div>
